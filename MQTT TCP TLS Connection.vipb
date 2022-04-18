@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2019-04-01 18:34:00" Modified_Date="2022-04-17 18:21:08" Creator="normandinf" Comments="" ID="665e9ed08c6f03eb03421a9d36ea0204">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2019-04-01 18:34:00" Modified_Date="2022-04-17 18:48:43" Creator="normandinf" Comments="" ID="b8f0762fdd40f8fc81d940b2a9dc5291">
   <Library_General_Settings>
     <Package_File_Name>LabVIEW_Open_Source_Project_lib_MQTT_SecuredTCP_Connection</Package_File_Name>
-    <Library_Version>3.2.0.3</Library_Version>
+    <Library_Version>3.2.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>source</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -40,7 +40,14 @@ This package consists of an extension of the MQTT TCP Connection base class for 
       <Copyright/>
       <Packager/>
       <URL>https://github.com/LabVIEW-Open-Source/MQTT-Connection-SecuredTCP</URL>
-      <Release_Notes>Support for client certificate and keys</Release_Notes>
+      <Release_Notes>Support for client certificate and keys
+
+
+*******************
+Thanks to Contributors to this release: 
+
+Adam Gluck (@agluck28)
+François Normandin (@francois-normandin)</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -289,7 +296,7 @@ This package consists of an extension of the MQTT TCP Connection base class for 
         <Path>source\Connection.SecuredTCP\Read trusted entities.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D4D6A7364E90CDADB81C32C30CEC8519</GUID>
+      <GUID>78D7F2906B3629383F8FE8CDD0C7DD98</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
