@@ -55,6 +55,8 @@
 				<Item Name="Read Server Public Events.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Open Source Project/MQTT Broker/Server class/Read Server Public Events.vi"/>
 				<Item Name="Server.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/LabVIEW Open Source Project/MQTT Broker/Server class/Server.lvclass"/>
 				<Item Name="Create Server.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Open Source Project/MQTT Broker/Server class/Create Server.vi"/>
+				<Item Name="Stall Data Flow.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/Stall Data Flow.vim"/>
+				<Item Name="Assert Array Dimension Sizes.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Array Dimension Sizes.vim"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
