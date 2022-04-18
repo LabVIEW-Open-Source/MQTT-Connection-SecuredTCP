@@ -51,12 +51,10 @@
 				<Item Name="Obtain Semaphore Reference.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Obtain Semaphore Reference.vi"/>
 				<Item Name="AddNamedSemaphorePrefix.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/AddNamedSemaphorePrefix.vi"/>
 				<Item Name="Validate Semaphore Size.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Validate Semaphore Size.vi"/>
-				<Item Name="Server.ctl" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Open Source Project/MQTT Broker/Server class/Server.lvclass/Server.ctl"/>
-				<Item Name="Read Server Public Events.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Open Source Project/MQTT Broker/Server class/Read Server Public Events.vi"/>
-				<Item Name="Server.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/LabVIEW Open Source Project/MQTT Broker/Server class/Server.lvclass"/>
-				<Item Name="Create Server.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Open Source Project/MQTT Broker/Server class/Create Server.vi"/>
 				<Item Name="Stall Data Flow.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/Stall Data Flow.vim"/>
 				<Item Name="Assert Array Dimension Sizes.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Array Dimension Sizes.vim"/>
+				<Item Name="Create Server.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Open Source Project/MQTT Broker/Server class/Create Server.vi"/>
+				<Item Name="Read Server Public Events.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Open Source Project/MQTT Broker/Server class/Read Server Public Events.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
