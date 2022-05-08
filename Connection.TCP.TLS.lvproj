@@ -53,8 +53,8 @@
 				<Item Name="Validate Semaphore Size.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Validate Semaphore Size.vi"/>
 				<Item Name="Stall Data Flow.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/Stall Data Flow.vim"/>
 				<Item Name="Assert Array Dimension Sizes.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Array Dimension Sizes.vim"/>
-				<Item Name="Create Server.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Open Source Project/MQTT Broker/Server class/Create Server.vi"/>
-				<Item Name="Read Server Public Events.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Open Source Project/MQTT Broker/Server class/Read Server Public Events.vi"/>
+				<Item Name="Connection_GOSPL.lvlib" Type="Library" URL="/&lt;vilib&gt;/LabVIEW Open Source Project/Connection/Connection/Connection_GOSPL.lvlib"/>
+				<Item Name="MQTT Server.lvlib" Type="Library" URL="/&lt;vilib&gt;/G Open Source Project for LabVIEW/MQTT Broker/MQTT Server.lvlib"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
